@@ -1,0 +1,101 @@
+codigo_ruta,lugar_origen,lugar_destino,distancia,tiempo_estimado
+494373,Quito,Ambato,388,673
+36541,Ambato,Quito,717,718
+719247,Riobamba,Portoviejo,131,395
+971645,Portoviejo,Riobamba,799,174
+156675,Quito,Santo Domingo,173,522
+971645,Machala,Santo Domingo,686,219
+40698,Manta,Quito,79,568
+791818,Ambato,Portoviejo,669,564
+40698,Santo Domingo,Ibarra,656,395
+416339,Esmeraldas,Cuenca,566,321
+461357,Ibarra,Machala,86,530
+852743,Manta,Ibarra,301,506
+416339,Santo Domingo,Manta,396,435
+368181,Guayaquil,Esmeraldas,390,87
+646810,Portoviejo,Quito,415,469
+971645,Loja,Ibarra,633,250
+791818,Portoviejo,Manta,167,361
+795764,Loja,Manta,119,534
+461357,Ambato,Guayaquil,759,472
+368181,Ibarra,Santo Domingo,229,306
+719247,Santo Domingo,Loja,116,587
+646810,Guayaquil,Riobamba,727,169
+368181,Machala,Portoviejo,223,299
+461357,Guayaquil,Ibarra,108,375
+852743,Ambato,Manta,798,345
+368181,Machala,Ibarra,762,582
+971645,Ibarra,Santo Domingo,149,542
+368181,Ambato,Guayaquil,259,64
+103817,Loja,Guayaquil,250,609
+368181,Loja,Riobamba,599,440
+155837,Quito,Portoviejo,61,400
+36541,Machala,Manta,600,153
+646810,Guayaquil,Machala,383,516
+852743,Santo Domingo,Loja,688,410
+461357,Portoviejo,Manta,140,660
+36541,Manta,Loja,777,156
+494373,Riobamba,Manta,168,383
+36541,Portoviejo,Santo Domingo,626,499
+719247,Ambato,Cuenca,94,247
+155837,Cuenca,Quito,284,423
+368181,Guayaquil,Ambato,90,339
+971645,Manta,Santo Domingo,366,669
+646810,Manta,Machala,169,637
+416339,Quito,Ambato,119,715
+45781,Manta,Ambato,251,555
+852743,Esmeraldas,Riobamba,399,236
+461357,Machala,Cuenca,399,711
+494373,Cuenca,Esmeraldas,240,322
+791818,Ambato,Portoviejo,469,81
+368181,Machala,Guayaquil,389,162
+791818,Riobamba,Quito,553,164
+36541,Esmeraldas,Cuenca,283,312
+744645,Ibarra,Riobamba,192,369
+156675,Machala,Guayaquil,529,303
+937255,Ambato,Machala,445,244
+566451,Ibarra,Esmeraldas,572,518
+461357,Loja,Esmeraldas,638,241
+852743,Machala,Cuenca,797,388
+117827,Portoviejo,Riobamba,770,137
+744645,Manta,Riobamba,509,384
+155837,Esmeraldas,Quito,562,156
+852743,Santo Domingo,Machala,458,510
+461357,Machala,Ibarra,639,457
+103817,Ibarra,Portoviejo,708,355
+416339,Riobamba,Machala,417,314
+719247,Guayaquil,Riobamba,620,91
+937255,Ibarra,Riobamba,285,238
+971645,Portoviejo,Santo Domingo,797,105
+117827,Machala,Guayaquil,729,274
+368181,Machala,Santo Domingo,306,406
+646810,Ambato,Portoviejo,332,247
+156675,Quito,Guayaquil,353,488
+719247,Ambato,Ibarra,736,682
+117827,Esmeraldas,Quito,216,569
+155837,Loja,Ibarra,280,664
+795764,Santo Domingo,Machala,81,435
+368181,Guayaquil,Manta,698,421
+971645,Riobamba,Manta,476,356
+852743,Ibarra,Guayaquil,101,419
+795764,Loja,Manta,572,104
+156675,Ambato,Machala,221,510
+795764,Quito,Cuenca,693,546
+156675,Esmeraldas,Portoviejo,727,306
+719247,Ambato,Quito,447,397
+368181,Machala,Esmeraldas,743,229
+566451,Loja,Ibarra,711,134
+45781,Ibarra,Riobamba,453,213
+45781,Portoviejo,Machala,342,374
+461357,Santo Domingo,Cuenca,93,147
+791818,Santo Domingo,Riobamba,524,623
+791818,Cuenca,Esmeraldas,617,334
+494373,Santo Domingo,Ibarra,325,226
+744645,Santo Domingo,Cuenca,367,101
+971645,Riobamba,Portoviejo,598,136
+103817,Guayaquil,Ambato,251,61
+791818,Ambato,Quito,742,591
+416339,Ibarra,Portoviejo,642,623
+566451,Cuenca,Guayaquil,151,486
+791818,Ambato,Cuenca,550,516
+719247,Manta,Quito,761,534

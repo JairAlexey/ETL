@@ -1,0 +1,151 @@
+fecha,vehiculo_codigo,tipo_incidente,descripcion,tiempo_retraso
+2023-01-30 18:51:00,630863,Clima Adverso,Maiores harum magni eveniet nulla esse magnam.,135
+2023-11-08 17:03:00,491238,Manifestación,Cum eum corporis porro quisquam.,96
+2024-08-11 10:12:00,492419,Manifestación,Perspiciatis asperiores quod quisquam nam.,49
+2024-11-02 06:59:00,491238,Manifestación,Magnam praesentium deleniti sequi temporibus sit et.,15
+2024-03-28 22:56:00,77155,Manifestación,Sunt dignissimos quibusdam.,179
+2024-08-07 06:23:00,492419,Clima Adverso,Commodi occaecati occaecati facilis.,94
+2023-12-17 15:23:00,436408,Tráfico Intenso,Tempore vitae mollitia.,46
+2023-08-12 11:59:00,458945,Clima Adverso,Itaque asperiores perferendis necessitatibus dolorum eos nobis.,164
+2024-06-24 06:20:00,30717,Fallo Mecánico,Temporibus necessitatibus pariatur sint ex.,111
+2023-08-27 12:35:00,754526,Manifestación,Officiis quos ipsum iure perferendis.,23
+2024-05-26 15:31:00,109426,Tráfico Intenso,Nisi sunt magni eius dolorem.,86
+2023-01-15 11:34:00,811121,Obras en Vía,Aperiam temporibus quam harum ullam.,67
+2024-10-04 18:52:00,436408,Manifestación,Repellendus rerum aspernatur nostrum optio qui necessitatibus.,153
+2023-06-05 11:09:00,474847,Manifestación,Atque reiciendis modi tempore ducimus.,90
+2024-08-02 10:28:00,779085,Obras en Vía,Voluptatem corrupti amet perspiciatis sapiente fuga quo ducimus.,128
+2023-02-08 11:32:00,170608,Clima Adverso,Nostrum laudantium corporis earum est recusandae.,57
+2023-09-20 15:01:00,187613,Clima Adverso,Id non perspiciatis soluta quaerat.,21
+2024-01-01 14:22:00,175905,Accidente,Sit optio aperiam nobis eius.,89
+2024-06-29 09:53:00,630590,Fallo Mecánico,Placeat nihil atque deleniti eaque impedit nostrum.,111
+2024-06-09 08:15:00,59374,Tráfico Intenso,Aliquam odio mollitia ipsam blanditiis id excepturi.,154
+2023-11-23 17:17:00,155969,Manifestación,Facilis aspernatur debitis beatae soluta eveniet magnam.,15
+2024-10-28 09:43:00,414752,Obras en Vía,Aut ab est autem tenetur aliquam.,46
+2024-12-16 17:30:00,947475,Manifestación,Molestiae veniam totam repudiandae.,161
+2024-05-30 16:55:00,368074,Manifestación,Provident commodi molestiae voluptatum illo consequuntur sit nam.,158
+2023-05-27 12:51:00,479576,Fallo Mecánico,Non tempora vitae vero odio possimus deserunt nihil.,16
+2023-03-29 16:52:00,324722,Obras en Vía,Aut mollitia sunt libero expedita quod hic voluptatibus.,73
+2023-07-29 21:23:00,492419,Manifestación,Sit animi minima quasi facilis accusamus.,96
+2024-11-17 16:15:00,803221,Accidente,Numquam perferendis praesentium ratione.,34
+2024-12-21 14:41:00,754526,Tráfico Intenso,Adipisci sequi asperiores molestiae commodi cumque quam distinctio.,131
+2024-02-04 14:04:00,938660,Fallo Mecánico,Enim incidunt odio cupiditate quibusdam tempora est.,165
+2023-05-22 16:54:00,155969,Fallo Mecánico,Debitis possimus alias.,42
+2023-07-24 13:18:00,380017,Manifestación,Corrupti ex nisi maiores labore deleniti dolorum libero.,55
+2024-02-18 06:44:00,326668,Accidente,Suscipit distinctio sunt earum.,71
+2023-04-27 20:15:00,77155,Fallo Mecánico,Earum vitae at accusantium.,120
+2024-10-23 22:30:00,324722,Clima Adverso,Reiciendis aliquam temporibus qui occaecati.,116
+2024-02-13 06:16:00,534838,Manifestación,Voluptates harum laboriosam quam.,136
+2023-06-30 06:29:00,178733,Clima Adverso,Eum pariatur maxime error reprehenderit eos repellendus.,76
+2023-04-03 13:41:00,178733,Clima Adverso,Fugit tempora magnam voluptatem labore quod atque.,142
+2024-05-01 07:17:00,368074,Tráfico Intenso,A mollitia similique repellendus.,109
+2023-04-13 15:06:00,326668,Fallo Mecánico,Doloremque doloribus tempora laudantium ea odio.,130
+2024-04-26 18:56:00,414752,Clima Adverso,Iste consequatur iure tempore nulla.,55
+2024-07-13 11:31:00,280700,Tráfico Intenso,Magni sit eos exercitationem soluta omnis qui.,69
+2023-10-24 08:06:00,111393,Fallo Mecánico,Exercitationem dolore cupiditate itaque.,121
+2023-12-12 19:24:00,769907,Tráfico Intenso,Repellat facere aliquid sunt odit excepturi.,56
+2023-08-22 21:25:00,109426,Clima Adverso,Nihil quo perspiciatis.,152
+2023-04-18 20:04:00,938660,Obras en Vía,Doloribus ipsum tenetur iure dolores possimus eos.,120
+2024-09-29 16:19:00,851656,Accidente,Qui tempore commodi.,108
+2024-12-06 18:26:00,779085,Accidente,Laborum quae distinctio.,127
+2023-03-24 14:40:00,77155,Fallo Mecánico,Vel quos accusantium nostrum unde libero tenetur.,71
+2024-01-05 20:46:00,811121,Clima Adverso,Fugiat corrupti id illo laudantium.,133
+2024-02-23 06:26:00,474847,Accidente,Ducimus repellendus reprehenderit corporis quisquam.,140
+2024-09-10 12:49:00,571013,Obras en Vía,Veritatis eum et libero eligendi doloremque nemo.,84
+2023-09-30 11:25:00,754526,Accidente,Ipsa ratione minima velit sequi veritatis temporibus temporibus.,26
+2023-05-12 11:57:00,534613,Manifestación,Corporis error fugiat possimus veniam assumenda.,95
+2023-01-25 10:02:00,779085,Clima Adverso,Accusamus iusto animi tempora debitis.,148
+2024-03-14 09:54:00,947475,Tráfico Intenso,Consectetur alias tenetur nostrum temporibus natus.,163
+2023-11-13 17:37:00,779085,Manifestación,Iste saepe odio.,171
+2023-08-03 16:57:00,458945,Fallo Mecánico,Adipisci iure illum excepturi exercitationem quasi dolorum et.,26
+2024-11-12 16:42:00,294967,Manifestación,Odio deserunt assumenda hic sit iste.,106
+2024-06-19 14:35:00,436408,Tráfico Intenso,Neque tempora tempora provident.,126
+2024-10-19 21:16:00,294967,Fallo Mecánico,Tenetur reprehenderit delectus sunt ex veniam placeat dolore.,104
+2024-11-26 17:53:00,630863,Tráfico Intenso,Amet similique qui dicta voluptas.,137
+2023-09-11 15:29:00,187613,Tráfico Intenso,Et rem debitis ipsum tempore reiciendis.,64
+2024-04-21 12:48:00,111393,Obras en Vía,Illum dolores eum suscipit earum explicabo.,147
+2023-10-20 22:35:00,803221,Obras en Vía,Tempora iusto aspernatur quos.,113
+2023-10-10 22:45:00,492419,Accidente,Doloremque aliquid iste facilis.,135
+2023-03-10 10:39:00,947475,Accidente,Soluta sint sunt officiis dolor.,91
+2023-01-01 14:05:00,187613,Tráfico Intenso,Nihil minus cumque ad.,17
+2024-08-26 09:15:00,404420,Tráfico Intenso,Rem nostrum id labore sit illum cum.,120
+2024-08-21 11:16:00,155969,Fallo Mecánico,Velit natus alias.,56
+2024-02-08 22:18:00,571935,Obras en Vía,Eum ullam a fuga.,149
+2024-05-06 06:15:00,839617,Fallo Mecánico,Veniam beatae molestiae quaerat accusamus beatae quo.,41
+2024-05-16 21:07:00,534613,Tráfico Intenso,Esse magnam esse tenetur error.,89
+2024-12-01 22:26:00,458945,Fallo Mecánico,Molestias provident et beatae iusto.,145
+2024-07-03 12:16:00,947475,Accidente,Minus atque ut distinctio ipsam iusto consequuntur minus.,150
+2023-09-06 18:03:00,59374,Clima Adverso,Nesciunt odit quibusdam vel.,22
+2024-04-02 12:52:00,670004,Obras en Vía,Ab veniam suscipit nulla nesciunt consectetur.,86
+2023-02-28 12:07:00,491238,Fallo Mecánico,Rem id amet ipsam maxime eaque consequatur tenetur.,24
+2023-02-23 09:36:00,803221,Clima Adverso,Laboriosam ducimus quam modi.,158
+2024-04-12 19:50:00,630863,Manifestación,Sequi consequatur numquam doloremque.,88
+2024-01-30 11:02:00,938660,Tráfico Intenso,Nihil saepe odio in reiciendis magnam.,25
+2024-09-14 10:08:00,380017,Manifestación,Voluptas nobis debitis doloribus ex suscipit similique.,154
+2024-09-19 13:37:00,226637,Obras en Vía,Debitis rerum laudantium quibusdam nam reprehenderit et.,134
+2024-06-04 11:01:00,779085,Accidente,Id cumque velit omnis possimus explicabo possimus.,44
+2024-09-05 18:11:00,59374,Fallo Mecánico,Molestiae nulla occaecati sit.,141
+2023-09-01 22:38:00,414752,Clima Adverso,Ut soluta distinctio aliquid ipsam distinctio officiis.,30
+2024-11-07 13:20:00,571013,Obras en Vía,Dicta non eius.,72
+2023-03-05 18:20:00,111393,Obras en Vía,Tenetur explicabo at fuga necessitatibus molestiae.,109
+2024-07-08 15:59:00,840721,Tráfico Intenso,Temporibus aliquid maxime quos repellendus voluptate molestias.,108
+2023-04-22 09:44:00,226637,Fallo Mecánico,Earum sint tempora labore eaque fugit.,124
+2024-06-14 08:54:00,380017,Accidente,Alias voluptatum impedit velit nesciunt doloribus incidunt labore.,35
+2024-07-18 15:03:00,938660,Obras en Vía,Nulla illum tempore velit soluta.,101
+2023-07-14 12:32:00,851656,Clima Adverso,Ab quaerat odit suscipit doloremque deserunt.,28
+2023-02-18 20:26:00,779085,Clima Adverso,A ipsa optio repellat possimus quia.,24
+2023-02-13 16:45:00,769907,Accidente,Vero expedita temporibus.,22
+2024-01-10 18:07:00,534613,Clima Adverso,Tempore qui dolores.,106
+2024-09-24 08:43:00,414752,Tráfico Intenso,Exercitationem veniam quo quia adipisci eligendi.,36
+2024-08-16 12:03:00,436408,Fallo Mecánico,Quae quibusdam provident nobis.,144
+2024-04-17 06:49:00,947475,Manifestación,Neque quae quia voluptatum laborum quas.,80
+2023-12-27 12:18:00,30717,Tráfico Intenso,Voluptatibus libero tenetur eveniet saepe.,55
+2024-10-09 18:17:00,77155,Fallo Mecánico,Molestiae sequi esse provident rerum eum neque mollitia.,174
+2024-01-25 21:01:00,630863,Obras en Vía,Labore esse magnam quibusdam nostrum necessitatibus reprehenderit.,21
+2024-07-23 17:13:00,294967,Fallo Mecánico,Occaecati eaque facere aut optio recusandae dolorem.,148
+2023-06-10 13:58:00,170608,Obras en Vía,Adipisci porro facilis adipisci magnam harum.,170
+2024-11-22 07:44:00,840721,Accidente,At beatae tenetur consequatur illo ab nobis beatae.,44
+2024-03-23 16:59:00,326668,Tráfico Intenso,Repudiandae corporis laborum quas officiis aliquid.,170
+2023-01-05 15:54:00,458945,Manifestación,Aperiam perferendis molestias.,160
+2023-11-18 19:54:00,380017,Fallo Mecánico,Quia illo in a ipsa facere minus.,64
+2023-11-03 15:33:00,178733,Clima Adverso,Tempora labore facere aut.,170
+2024-03-09 14:12:00,707903,Fallo Mecánico,Sapiente mollitia facere perferendis ex nostrum totam.,149
+2024-05-21 17:01:00,938660,Fallo Mecánico,Facere voluptatem asperiores perferendis consequatur corrupti.,22
+2024-03-04 06:24:00,226637,Obras en Vía,Nostrum amet consequatur ipsa suscipit hic.,179
+2024-03-18 16:04:00,479576,Fallo Mecánico,Provident repudiandae consectetur quidem delectus.,171
+2023-09-15 14:15:00,839617,Tráfico Intenso,Quia nesciunt corrupti placeat.,147
+2023-06-25 14:11:00,280700,Manifestación,Cumque corrupti delectus.,86
+2023-12-07 08:00:00,630863,Fallo Mecánico,Facilis quo voluptatibus rerum ullam.,151
+2023-01-20 06:49:00,187613,Fallo Mecánico,Repellendus voluptatem totam id assumenda.,154
+2024-12-11 22:15:00,280700,Accidente,Cum repellendus perferendis rerum distinctio.,77
+2023-12-02 10:29:00,491238,Tráfico Intenso,Aliquam neque quo excepturi tempora et perspiciatis ex.,19
+2023-07-09 06:09:00,294967,Fallo Mecánico,Blanditiis eos cupiditate illum nobis architecto.,73
+2023-05-07 13:37:00,947475,Fallo Mecánico,Corporis expedita asperiores repellat dolore doloremque.,33
+2023-10-29 17:58:00,668914,Accidente,Sapiente consequatur ad aperiam impedit illo.,165
+2023-12-22 15:36:00,474847,Fallo Mecánico,Aspernatur quia nihil tempore ratione odio impedit.,30
+2024-04-07 15:49:00,474847,Manifestación,Non libero debitis.,30
+2023-03-19 21:39:00,811121,Manifestación,Minima odio accusantium rem facilis accusantium.,163
+2023-02-04 17:48:00,947475,Obras en Vía,Debitis magnam dolor beatae.,75
+2023-04-08 06:30:00,102349,Tráfico Intenso,Expedita quidem officia laborum reiciendis.,125
+2023-11-27 11:31:00,368074,Tráfico Intenso,Natus rem quia praesentium eius aliquid vero rerum.,137
+2023-08-17 14:03:00,170608,Fallo Mecánico,Libero culpa adipisci repellat vel ipsa reprehenderit.,69
+2024-01-15 13:30:00,111393,Obras en Vía,Vel iste cupiditate voluptatum.,58
+2024-08-31 07:23:00,30717,Fallo Mecánico,Ad ipsa incidunt molestiae.,158
+2024-02-28 11:06:00,474847,Obras en Vía,Ex a velit cumque.,42
+2024-12-26 06:35:00,534838,Manifestación,Veniam repellat voluptatem doloremque asperiores.,78
+2024-01-20 11:32:00,840721,Clima Adverso,Iste pariatur asperiores deserunt iste accusamus nobis.,108
+2024-05-11 12:56:00,404420,Tráfico Intenso,Optio ipsum consequatur deserunt.,151
+2023-08-08 18:38:00,155969,Manifestación,Ratione dolorem cumque mollitia maiores corrupti iusto.,50
+2023-05-31 10:40:00,779085,Obras en Vía,Placeat nam aut fugit praesentium neque quas dolorum.,23
+2023-03-15 10:55:00,534613,Fallo Mecánico,Saepe blanditiis neque molestiae culpa velit nesciunt.,178
+2023-10-05 12:43:00,642108,Clima Adverso,Culpa tempore dolores optio quam cum.,131
+2023-06-15 13:02:00,840721,Accidente,Sed dolor ipsa inventore.,149
+2023-07-19 11:43:00,155969,Fallo Mecánico,Nemo architecto unde possimus.,49
+2023-06-20 21:21:00,380017,Obras en Vía,Porro pariatur itaque ratione sequi.,166
+2023-01-10 06:15:00,187613,Obras en Vía,Quia animi minus dicta.,104
+2023-05-02 10:35:00,155969,Manifestación,Soluta esse ducimus vel labore doloribus.,83
+2023-10-15 19:07:00,707903,Accidente,Nihil aperiam asperiores voluptates delectus.,162
+2024-10-14 09:52:00,102349,Fallo Mecánico,Adipisci iste mollitia vitae totam dolores libero.,64
+2023-05-17 06:40:00,380017,Accidente,Debitis eius sint quis.,133
+2023-09-25 16:37:00,226637,Manifestación,Nisi dolores qui velit voluptatibus ducimus temporibus atque.,81
+2024-07-28 18:40:00,436408,Fallo Mecánico,A dolore laborum ratione.,37
+2023-07-04 13:24:00,402843,Fallo Mecánico,Excepturi quisquam non laborum.,118
